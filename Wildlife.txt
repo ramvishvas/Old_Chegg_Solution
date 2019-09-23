@@ -1,0 +1,6 @@
+"Christopher","6:08","Sep. 11, 2018","Bridgetown",44.3,64.6,"Raccoon"
+"Betty","6:55","Jul. 21, 2018","Bridgetown",45,64.4,"Crow"
+"Christopher","1:00","Dec. 3, 2017","Paradise",46.8,63,"Crow"
+"Susan","10:08","Dec. 3, 2017","Kentville",46,66,"Deer"
+"Fred","11:22","dec. 19, 2017","COGS",45.71,64.78,"Coyote"
+"Fred","10:15","Nov. 19, 2018","Lawrencetown",45.45,63.63,"Coyote"

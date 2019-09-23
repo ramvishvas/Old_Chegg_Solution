@@ -1,0 +1,7 @@
+Alabaster 40 50 23 18
+Anniston  56 78 34 11
+Athens    40 34 18 30
+Auburn    55 67 23 11
+Decatur   44 23 56 11
+Florence  55 67 33 23
+Gadsden   45 67 54 77

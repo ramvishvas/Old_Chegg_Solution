@@ -1,0 +1,3 @@
+First word second word First word second word
+Output should look like First word second word
+Output should look like
